@@ -1,0 +1,12 @@
+[
+  "Estandap: Guía de Implementación para Equipos Ágiles",
+  "Estandap: Maximizando la Eficiencia en Reuniones Diarias",
+  "Estandap: Comunicación Asincrónica y Sincrónica para Equipos Remotos",
+  "Estandap: Metodología de Gestión Ágil para el Trabajo Remoto",
+  "Estandap: Mejores Prácticas para Reuniones Diarias Altamente Efectivas",
+  "Estandap: Optimizando la Alineación y Productividad del Equipo",
+  "Estandap: Guía del Usuario para Actualizaciones Escritas y Reuniones Diarias",
+  "Estandap: Transformando las Reuniones Diarias para Equipos Distribuidos",
+  "Estandap: Un Enfoque Innovador para la Comunicación del Equipo",
+  "Estandap: Potenciando la Colaboración y el Rendimiento del Equipo"
+]

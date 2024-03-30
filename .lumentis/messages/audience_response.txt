@@ -1,0 +1,12 @@
+[
+  "Managers",
+  "Team leaders",
+  "Project managers",
+  "Agile practitioners",
+  "Remote workers",
+  "Startups",
+  "Tech companies",
+  "Entrepreneurs",
+  "Executives",
+  "Knowledge workers"
+]

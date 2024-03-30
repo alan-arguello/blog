@@ -1,0 +1,12 @@
+[
+  "gestión ágil",
+  "reuniones diarias",
+  "trabajo remoto",
+  "comunicación asincrónica",
+  "alineación de equipos",
+  "priorización",
+  "productividad",
+  "herramientas de colaboración",
+  "objetivos y resultados clave (OKR)",
+  "indicadores clave de rendimiento (KPI)"
+]

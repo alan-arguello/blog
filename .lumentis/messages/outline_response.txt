@@ -1,0 +1,49 @@
+{
+  "title": "Estandap: Maximizando la Eficiencia en Reuniones Diarias",
+  "sections": [
+    {
+      "title": "Introducción a Estandap",
+      "permalink": "introduccion-estandap",
+      "singleSentenceDescription": "Estandap es una plantilla para reuniones diarias ágiles que combina comunicación sincrónica y asincrónica para maximizar la eficiencia y el valor."
+    },
+    {
+      "title": "Objetivo Principal de Estandap",
+      "permalink": "objetivo-principal-estandap",
+      "singleSentenceDescription": "El objetivo principal de Estandap es facilitar que los miembros del equipo permanezcan alineados, prioricen, se empaticen entre sí, ayuden a eliminar obstáculos y aceleren la ejecución exitosa.",
+      "subsections": [
+        {
+          "title": "La Actualización Escrita Diaria",
+          "permalink": "actualizacion-escrita-diaria",
+          "singleSentenceDescription": "Al comienzo de cada día laboral, los miembros del equipo responden preguntas clave en un documento compartido o canal para mantenerse alineados y enfocados en resultados."
+        },
+        {
+          "title": "La Reunión Diaria",
+          "permalink": "reunion-diaria",
+          "singleSentenceDescription": "Cada día laboral, se realiza una reunión siguiendo una agenda específica para leer actualizaciones, listar y priorizar temas de discusión, y abordarlos eficientemente."
+        }
+      ]
+    },
+    {
+      "title": "Consejos Avanzados",
+      "permalink": "consejos-avanzados",
+      "singleSentenceDescription": "Existen varias maneras de optimizar aún más las actualizaciones escritas y las reuniones diarias de Estandap para adaptarse a diferentes equipos y necesidades.",
+      "subsections": [
+        {
+          "title": "Consejos para las Actualizaciones Escritas",
+          "permalink": "consejos-actualizaciones-escritas",
+          "singleSentenceDescription": "Incluir el 'por qué', usar formatos visuales, hashtags para equipos grandes, orientación para nuevos miembros e integración con OKRs pueden mejorar las actualizaciones escritas."
+        },
+        {
+          "title": "Consejos para las Reuniones Diarias",
+          "permalink": "consejos-reuniones-diarias",
+          "singleSentenceDescription": "Revisar KPIs, usar reacciones, priorizar miembros clave, encender cámaras, moderar con elementos únicos y terminar con un grito de guerra puede optimizar las reuniones diarias."
+        }
+      ]
+    },
+    {
+      "title": "Trabajo en Progreso",
+      "permalink": "trabajo-en-progreso",
+      "singleSentenceDescription": "Estandap no es perfecto y tiene áreas de mejora, como encontrar el equilibrio al compartir, centrarse más en resultados, abordar el aprendizaje y adaptarse a múltiples zonas horarias."
+    }
+  ]
+}
